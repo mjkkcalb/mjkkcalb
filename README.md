@@ -1,5 +1,7 @@
 <a href="https://www.instagram.com/mjkkcalb"/><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://www.notion.so/Plan-with-me-f781e8dabff74cab9f580e59b9078154"/><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+
+<a href="https://www.notion.so/Plan-with-me-f781e8dabff74cab9f580e59b9078154"/><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+
 <!--
 **mjkkcalb/mjkkcalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
