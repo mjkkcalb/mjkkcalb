@@ -6,6 +6,11 @@
 <a href="https://blog.naver.com/mjkkca1b"/><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjkkcalb&show_icons=true&theme=radical)
+
 <!--
 **mjkkcalb/mjkkcalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
