@@ -1,4 +1,4 @@
-<a href="https://www.instagram.com/mjkkcalb"/><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=mailto"https://www.instagram.com/mjkkcalb"/></a>
+<a href="https://www.instagram.com/mjkkcalb"/><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 <!--
 **mjkkcalb/mjkkcalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
