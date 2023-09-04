@@ -3,7 +3,6 @@
 ![Vanilla-1s-286px](https://github.com/mjkkcalb/mjkkcalb/assets/142865257/4df4f4da-c306-4c27-813a-f3255e869945)
 
 </div>
-<hr>
 
 
 <h3 align="center"><b> 💌social💌</b></h3>
