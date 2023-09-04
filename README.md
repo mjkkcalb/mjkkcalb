@@ -12,8 +12,6 @@
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjkkcalb&layout=compact&theme=cobalt)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjkkcalb)](https://github.com/anuraghazra/github-readme-stats)
 
 
