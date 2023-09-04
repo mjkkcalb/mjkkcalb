@@ -6,7 +6,7 @@
 
 
 
-<h3 align="center"><b>social</b></h3>
+<h3 align="center"><b> 💌social💌</b></h3>
 <br>
 <p align="center">
 <a href="https://www.instagram.com/mjkkcalb"/><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
