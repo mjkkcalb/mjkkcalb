@@ -13,6 +13,8 @@
 <a href="https://www.notion.so/Plan-with-me-f781e8dabff74cab9f580e59b9078154"/><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://blog.naver.com/mjkkca1b"/><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
+
+<h3 align=center><b>✨hits✨</b></h3>
 <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmjkkcalb&count_bg=%23E7B4AF&title_bg=%23D5D0CD&icon=icq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
