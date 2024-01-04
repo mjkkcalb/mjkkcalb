@@ -4,8 +4,14 @@
 
 </div>
 
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmjkkcalb&count_bg=%23E7B4AF&title_bg=%23D5D0CD&icon=icq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h3 align="center"><b> 💌social💌</b></h3>
+</div>
+<br>
+
+<h3 align="center"><b> social</b></h3>
 <br>
 <p align="center">
 <a href="https://www.instagram.com/mjkkcalb"/><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
@@ -58,11 +64,7 @@
 
 
 
-<div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmjkkcalb&count_bg=%23E7B4AF&title_bg=%23D5D0CD&icon=icq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
 
 <!--
 **mjkkcalb/mjkkcalb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
