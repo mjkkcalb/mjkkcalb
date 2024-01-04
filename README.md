@@ -50,6 +50,18 @@
 
 </div>
 
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/mjkkcalb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjkkcalb&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=Objective%2DC" />
+  </a>
+</p>
+<h3 align="center">💡 My Git Stats 💡</h3>
+<p align="center">
+  <a href="https://github.com/mjkkcalb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjkkcalb&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+  </a>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjkkcalb)](https://github.com/anuraghazra/github-readme-stats)
 
