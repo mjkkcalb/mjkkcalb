@@ -20,6 +20,7 @@
 
 <details align="center">
 <summary>📚Once I've Used📚</summary>
+  <br>
 <div align="center">
 <img src="https://img.shields.io/badge/html5-E34F26.svg?&style=flat-squar&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-1572B6.svg?&style=flat-squar&logo=css3&logoColor=white"/>
@@ -35,7 +36,9 @@
 <img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=flat-squar&logo=mongodb&logoColor=white"/>
 </div>
 </details>
-<h4 align="center">📎Tools📎</h4>
+<details align="center">
+<summary>📎Tools📎</summary>
+  <br>
 <div align="center">
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=flat-squar&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-F05032.svg?&style=flat-squar&logo=git&logoColor=white"/>
@@ -46,6 +49,7 @@
 <img src="https://img.shields.io/badge/adobephotoshop-31A8FF.svg?&style=flat-squar&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/adobeillustrator-FF9A00.svg?&style=flat-squar&logo=adobeillustrator&logoColor=white"/>
 </div>
+</details>
 
 <br>
 <div align="center">
