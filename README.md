@@ -32,9 +32,13 @@
 <p>Tools</p>
 <div align="center">
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=flat-squar&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/express-000000.svg?&style=flat-squar&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/ejs-B4CA65.svg?&style=flat-squar&logo=ejs&logoColor=white"/>
-<img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=flat-squar&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05032.svg?&style=flat-squar&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717.svg?&style=flat-squar&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/notion-44C1C5.svg?&style=flat-squar&logo=notion&logoColor=black"/>
+  <img src="https://img.shields.io/badge/discord-5865F2.svg?&style=flat-squar&logo=discord&logoColor=black"/>
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?&style=flat-squar&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adobephotoshop-31A8FF.svg?&style=flat-squar&logo=adobephotoshop&logoColor=white"/>
+    <img src="https://img.shields.io/badge/adobeillustrator-FF9A00.svg?&style=flat-squar&logo=adobeillustrator&logoColor=white"/>
 </div>
 <h3 align=center><b>✨hits✨</b></h3>
 <div align=center>
