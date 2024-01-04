@@ -13,7 +13,7 @@
 
 
 <h3 align="center"><b> Once I've Used📚</b></h3>
-<p></p>
+<p>Tech stack</p>
 <br>
 <div align="center">
 <img src="https://img.shields.io/badge/html5-E34F26.svg?&style=flat-squar&logo=html5&logoColor=white"/>
@@ -29,7 +29,13 @@
 <img src="https://img.shields.io/badge/ejs-B4CA65.svg?&style=flat-squar&logo=ejs&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=flat-squar&logo=mongodb&logoColor=white"/>
 </div>
-
+<p>Tools</p>
+<div align="center">
+<img src="https://img.shields.io/badge/vscode-2F80ED.svg?&style=flat-squar&logo=vscode&logoColor=white"/>
+<img src="https://img.shields.io/badge/express-000000.svg?&style=flat-squar&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/ejs-B4CA65.svg?&style=flat-squar&logo=ejs&logoColor=white"/>
+<img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=flat-squar&logo=mongodb&logoColor=white"/>
+</div>
 <h3 align=center><b>✨hits✨</b></h3>
 <div align=center>
   
