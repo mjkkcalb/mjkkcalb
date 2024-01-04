@@ -13,7 +13,7 @@
 
 
 <h3 align="center"><b> Once I've Used📚</b></h3>
-<p>Tech stack</p>
+<p align="center">Tech stack</p>
 <br>
 <div align="center">
 <img src="https://img.shields.io/badge/html5-E34F26.svg?&style=flat-squar&logo=html5&logoColor=white"/>
@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/ejs-B4CA65.svg?&style=flat-squar&logo=ejs&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=flat-squar&logo=mongodb&logoColor=white"/>
 </div>
-<p>Tools</p>
+<p align="center">Tools</p>
 <div align="center">
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=flat-squar&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-F05032.svg?&style=flat-squar&logo=git&logoColor=white"/>
@@ -41,6 +41,8 @@
 <img src="https://img.shields.io/badge/adobephotoshop-31A8FF.svg?&style=flat-squar&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/adobeillustrator-FF9A00.svg?&style=flat-squar&logo=adobeillustrator&logoColor=white"/>
 </div>
+
+
 <h3 align=center><b>✨hits✨</b></h3>
 <div align=center>
   
