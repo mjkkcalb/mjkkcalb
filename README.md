@@ -18,9 +18,7 @@
 <a href="https://velog.io/@mjkkcalb/posts"/><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
 
-<h4 align="center">Once I've Used📚</h4>
-<p align="center">Tech stack</p>
-<br>
+<h4 align="center">📚Once I've Used📚</h4>
 <div align="center">
     <p>Frontend</p>
 <img src="https://img.shields.io/badge/html5-E34F26.svg?&style=flat-squar&logo=html5&logoColor=white"/>
