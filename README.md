@@ -18,7 +18,8 @@
 <a href="https://velog.io/@mjkkcalb/posts"/><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
 
-<h4 align="center">📚Once I've Used📚</h4>
+<details>
+<summary>📚Once I've Used📚</summary>
 <div align="center">
 <img src="https://img.shields.io/badge/html5-E34F26.svg?&style=flat-squar&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-1572B6.svg?&style=flat-squar&logo=css3&logoColor=white"/>
@@ -33,6 +34,7 @@
 <img src="https://img.shields.io/badge/ejs-B4CA65.svg?&style=flat-squar&logo=ejs&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=flat-squar&logo=mongodb&logoColor=white"/>
 </div>
+</details>
 <h4 align="center">📎Tools📎</h4>
 <div align="center">
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=flat-squar&logo=visualstudiocode&logoColor=white"/>
