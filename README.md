@@ -9,6 +9,15 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmjkkcalb&count_bg=%23E7B4AF&title_bg=%23D5D0CD&icon=icq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+
+<br>
+<details align="center">
+  <summary>안녕하세요 프론트엔드 개발자 권지민 입니다!</summary>
+    <br>
+  <div align="center">
+    ---
+  </div>
+</details>
 <br>
 
 <h4 align="center">⭐social⭐</h4>
@@ -37,8 +46,8 @@
 </div>
 </div>
 <br>
-<details align="center">
-<summary>📎Tools📎</summary>
+<div align="center">
+<h4>📎Tools📎</h4>
   <br>
 <div align="center">
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=flat-squar&logo=visualstudiocode&logoColor=white"/>
@@ -50,7 +59,7 @@
 <img src="https://img.shields.io/badge/adobephotoshop-31A8FF.svg?&style=flat-squar&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/adobeillustrator-FF9A00.svg?&style=flat-squar&logo=adobeillustrator&logoColor=white"/>
 </div>
-</details>
+</div>
 
 <br>
 <div align="center">
