@@ -9,7 +9,7 @@
 <br>
 <p align="center">
 <a href="https://www.instagram.com/mjkkcalb"/><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://blog.naver.com/mjkkca1b"/><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="[https://blog.naver.com/mjkkca1b](https://velog.io/@mjkkcalb/posts)"/><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
 
 <h3 align="center"><b> Once I've Used📚</b></h3>
