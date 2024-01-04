@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/html5-E34F26.svg?&style=flat-squar&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-1572B6.svg?&style=flat-squar&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-squar&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/scss-CC6699.svg?&style=flat-squar&logo=scss&logoColor=white"/>
+<img src="https://img.shields.io/badge/sass-F68315.svg?&style=flat-squar&logo=scss&logoColor=white"/>
 <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?&style=flat-squar&logo=styledcomponents&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=flat-squar&logo=react&logoColor=white"/>
 </div>
@@ -31,7 +31,7 @@
 </div>
 <p>Tools</p>
 <div align="center">
-<img src="https://img.shields.io/badge/vscode-2F80ED.svg?&style=flat-squar&logo=vscode&logoColor=white"/>
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=flat-squar&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/express-000000.svg?&style=flat-squar&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/ejs-B4CA65.svg?&style=flat-squar&logo=ejs&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=flat-squar&logo=mongodb&logoColor=white"/>
