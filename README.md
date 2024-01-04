@@ -11,14 +11,6 @@
 </div>
 
 <br>
-<details align="center">
-  <summary>안녕하세요 프론트엔드 개발자 권지민 입니다!</summary>
-    <br>
-  <div align="center">
-    ---
-  </div>
-</details>
-<br>
 
 <h4 align="center">⭐social⭐</h4>
 <br>
