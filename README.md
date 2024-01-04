@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/html5-E34F26.svg?&style=flat-squar&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-1572B6.svg?&style=flat-squar&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-squar&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/scss-F68315.svg?&style=flat-squar&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/sass-FFB13B.svg?&style=flat-squar&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?&style=flat-squar&logo=styledcomponents&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=flat-squar&logo=react&logoColor=white"/>
 </div>
