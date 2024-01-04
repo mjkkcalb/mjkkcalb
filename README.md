@@ -20,7 +20,6 @@
 
 <h4 align="center">📚Once I've Used📚</h4>
 <div align="center">
-    <p>Frontend</p>
 <img src="https://img.shields.io/badge/html5-E34F26.svg?&style=flat-squar&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-1572B6.svg?&style=flat-squar&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-squar&logo=javascript&logoColor=white"/>
@@ -29,7 +28,6 @@
 <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=flat-squar&logo=react&logoColor=white"/>
 </div>
 <div align="center">
-    <p>Backend</p>
 <img src="https://img.shields.io/badge/nodedotjs-339933.svg?&style=flat-squar&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/express-000000.svg?&style=flat-squar&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/ejs-B4CA65.svg?&style=flat-squar&logo=ejs&logoColor=white"/>
@@ -47,7 +45,7 @@
 <img src="https://img.shields.io/badge/adobeillustrator-FF9A00.svg?&style=flat-squar&logo=adobeillustrator&logoColor=white"/>
 </div>
 
-
+<br>
 <div align="center">
 <h4 align="center"> My Most Used Languages </h4>
   <a href="https://github.com/mjkkcalb" align="center">
