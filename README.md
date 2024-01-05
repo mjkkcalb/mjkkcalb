@@ -54,21 +54,16 @@
 </div>
 
 <br>
-<!-- ### 제가 사용하는 언어들입니다. -->
-<!-- + React
-+ Node.js
-+ JS
-+ Ex -->
 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjkkcalb&show_icons=true&theme=tokyonight) -->
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjkkcalb&show_icons=true&theme=tokyonight) 
 <div><img src="data:image/svg+xml,%3Csvg width='1' height='560' xmlns='http://www.w3.org/2000/svg'%3E%3C/svg%3E" /></div>
-<!-- <table>
+ <table>
   <tr style="border: 0;">
     <td><img src="https://myreadme.vercel.app/api/embed/=mjkkcalb?panels=userstatistics,toprepositories,toplanguages,commitgraph" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username==mjkkcalb&layout=compact" /> </td>
   </tr>
-</table> -->
+</table> 
 
 ![](https://myreadme.vercel.app/api/embed/mjkkcalb?panels=userstatistics,toplanguages,commitgraph,toprepositories)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username==mjkkcalb&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
