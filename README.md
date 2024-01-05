@@ -55,10 +55,8 @@
 
 <br>
 
-
-![](https://myreadme.vercel.app/api/embed/mjkkcalb?panels=userstatistics,toplanguages,commitgraph,toprepositories)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username==mjkkcalb&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username==mjkkcalb&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username==mjkkcalb&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username==mjkkcalb&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 <br>
 
@@ -69,10 +67,11 @@
   </a>
 
 <h4 align="center"> My Git Stats </h4>
-  <a href="https://github.com/mjkkcalb" align="center">
+<!--  <a href="https://github.com/mjkkcalb" align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjkkcalb&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=vue" />
-  </a>
-
+  </a>-->
+  
+![](https://myreadme.vercel.app/api/embed/mjkkcalb?panels=userstatistics,toplanguages,commitgraph,toprepositories)
 </div>
 
 
