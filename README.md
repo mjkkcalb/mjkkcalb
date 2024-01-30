@@ -15,10 +15,10 @@
 <h4 align="center">⭐social⭐</h4>
 <br>
 <p align="center">
-  
+<div align="center">
 <a href="https://www.instagram.com/mjkkcalb"/><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://velog.io/@mjkkcalb/posts"/><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-
+</div>
 
 <div align="center">
 <h4>📚Once I've Used📚</h4>
