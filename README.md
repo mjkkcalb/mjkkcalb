@@ -67,11 +67,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjkkcalb&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=vue&hide=Objective%2DC" />
   </a>-->
 
-<!-- <h4 align="center"> 📊My Git Stats </h4>
+ <h4 align="center"> 📊My Git Stats </h4>
  <a href="https://github.com/mjkkcalb" align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjkkcalb&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=vue" />
   </a>
-![](https://myreadme.vercel.app/api/embed/mjkkcalb?panels=userstatistics,toplanguages,commitgraph,toprepositories) -->
+![](https://myreadme.vercel.app/api/embed/mjkkcalb?panels=userstatistics,toplanguages,commitgraph,toprepositories) 
   
 </div>
 
